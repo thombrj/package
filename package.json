@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thombrj/package/issues"
   },
-  "homepage": "https://github.com/thombrj/package#readme"
+  "homepage": "https://github.com/thombrj/package#readme",
+  "publishConfig": {
+    "@thombrj:registry": "https://npm.pkg.github.com"
+  }
 }
